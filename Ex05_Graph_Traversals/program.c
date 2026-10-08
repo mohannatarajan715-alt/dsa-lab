@@ -113,3 +113,14 @@ int main() {
 
     return 0;
 }
+/*Enter the number of vertices: 5
+Enter the number of edges: 5
+Enter edge (origin destination): 0 1
+Enter edge (origin destination): 0 2
+Enter edge (origin destination): 1 3
+Enter edge (origin destination): 1 4
+Enter edge (origin destination): 3 4
+Enter the start vertex for BFS: 0
+BFS Traversal: 0 1 2 3 4 
+Enter the start vertex for DFS: 0
+DFS Traversal: 0 1 3 4 2 */
