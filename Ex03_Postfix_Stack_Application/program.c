@@ -66,3 +66,6 @@ int main()
     printf("\nThe result of expression %s = %d\n\n",exp,pop());
     return 0;
 }
+/*Enter the expression :: 245+*
+
+The result of expression 245+* = 18*/
